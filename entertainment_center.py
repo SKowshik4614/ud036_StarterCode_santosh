@@ -21,7 +21,7 @@ Batman = media.Movie("Batman Begins",
 
 Avengers = media.Movie("Avengers: Age of Ultron",
                         "SevTony Stark builds an artificial intelligence system named Ultron with the help of Bruce Banner.",
-                        "https://github.com/SKowshik4614/ud036_StarterCode_santosh/blob/master/images/Avengers.jpg",
+                        "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Avengers_Age_of_Ultron.jpg/220px-Avengers_Age_of_Ultron.jpg",
                         "https://www.youtube.com/watch?v=JAUoeqvedMo")
 
 Witch_Mountain = media.Movie("Race to Witch Mountain",
